@@ -34,3 +34,4 @@ print(string_double_quotes)
 
 ## RESULT
 
+ thus Python program to print the string in multiple lines using triple quotes has verified successfully.
