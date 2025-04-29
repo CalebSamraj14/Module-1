@@ -29,6 +29,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+![Screenshot 2025-04-29 104427](https://github.com/user-attachments/assets/87c18390-1f8a-4c9e-bafb-52505b9a67a0)
 
 ## RESULT
 
