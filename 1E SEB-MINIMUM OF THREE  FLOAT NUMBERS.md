@@ -10,7 +10,7 @@ To write a Python program to find the minimum between three integer numbers usin
 4. **Display result:** Print the formatted string showing the maximum value.
 5. **End program:** Program execution completes after displaying the result.
 
-Need help converting this into a flowchart or pseudocode?
+
 ## PROGRAM
 ```python
 a=float(input())
