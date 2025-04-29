@@ -24,4 +24,4 @@ print(f"The maximum of {a}, {b}, {c} is {maxx}")
 ![Screenshot 2025-04-29 111437](https://github.com/user-attachments/assets/5fcfb9fa-b1d4-4fcb-b03a-b997527b66a1)
 
 ## RESULT
-Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator) is implemented successfully and verified
+ Thus Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator) is implemented successfully and verified
